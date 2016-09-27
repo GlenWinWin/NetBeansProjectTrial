@@ -10,6 +10,6 @@ package functions;
  *
  * @author OPEN_LABORATORY
  */
-public class Classsss {
+public class GGg {
     
 }
